@@ -1,8 +1,8 @@
 {
   "name": "tree-sitter-lua",
-  "version": "1.6.2",
+  "version": "1.6.3",
   "description": "Lua grammar for tree-sitter.",
-  "main": "index.js",
+  "main": "bindings/node",
   "keywords": [
     "tree-sitter",
     "parser",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "prebuild": "^10.0.1",
-    "tree-sitter-cli": "^0.17.3"
+    "tree-sitter-cli": "^0.20.0"
   },
   "files": [
     "src",
