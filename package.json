@@ -26,14 +26,6 @@
     "prebuild": "^10.0.1",
     "tree-sitter-cli": "^0.20.0"
   },
-  "files": [
-    "src",
-    "binding.gyp",
-    "grammar.js",
-    "index.js",
-    "package.json",
-    "package-lock.json"
-  ],
   "tree-sitter": [
     {
       "scope": "source.lua",
